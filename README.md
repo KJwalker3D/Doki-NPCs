@@ -16,19 +16,21 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/pick-n-mix-npc-demo.git
+    git clone https://github.com/KatherineJoelle/Doki-NPCs.git
     ```
 
 2. Navigate to the project folder:
 
     ```bash
-    cd pick-n-mix-npc-demo
+    cd Doki-NPCs
     ```
 
-3. Install dependencies:
+3. Install dependencies by opening the folder with the Decentraland Editor SDK7 (Visual Studio Code Extension)
+
+4. Run the scene from the command line:
 
     ```bash
-    npm install
+    npm run start
     ```
 
 ### Usage
@@ -94,7 +96,7 @@ Make sure you have the following installed:
 4. Run the project:
 
     ```bash
-    dcl start
+    npm run start
     ```
 
 5. Visit the scene in your Decentraland client and interact with the NPC.
